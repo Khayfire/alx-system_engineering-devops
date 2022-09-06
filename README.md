@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My first README commit
+0x02 shell imput output redirectionsand filters
